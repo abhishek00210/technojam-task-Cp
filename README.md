@@ -1,4 +1,4 @@
-# technojam-task-Cp
+# technojam-task-Cp-web
 How did you approach your task?
 I think abot the question and try to find out any pattern in input and output and sometimes i read question lot of time so i got the good approch 
 
